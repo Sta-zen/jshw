@@ -13,4 +13,4 @@ console.log('8*7=56 (Ваш ответ - ' + ex4 +')');
 var ex4 = prompt('30%4=?')
 console.log('30%4=2 (Ваш ответ - ' + ex4 +')');
 var con = ('Перейдите в консоль')
-alert (con)``
+alert (con)
